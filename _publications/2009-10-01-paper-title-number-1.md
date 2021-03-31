@@ -1,15 +1,7 @@
----
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+Preprints
+===========
+[Preprint]: [Multi-Pen Robust Robotic 3D Drawing Using Closed-Loop Planning](https://arxiv.org/pdf/2009.14501.pdf), Ruishuang Liu, Weiwei Wan, Keisuke Koyama, and Kensuke Harada, arXiv: 2009.14501 [cs.RO], 2020. [Video](https://www.youtube.com/watch?v=KBSWHh4RtW0) (Reported by [IEEE Spectrum Video Friday](https://spectrum.ieee.org/automaton/robotics/robotics-hardware/video-friday-mesmer-humanoid-robot))
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Domestic Conference
+===========
