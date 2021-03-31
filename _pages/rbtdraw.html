@@ -1,0 +1,63 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <title>Multi-Pen Robust Robotic 3D Drawing Using Closed-Loop Planning</title>
+<style id="system" type="text/css">
+	h1,h2,h3,h4,h5,h6,p,blockquote {margin: 0; padding: 0;}
+	body {font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif; font-size: 13px; line-height: 18px; color: #737373; margin: 10px 13px 10px 13px;}
+	a {color: #0069d6;}
+	a:hover {color: #0050a3;text-decoration: none;}
+	a img {border: none;}
+	p {margin-bottom: 9px; text-align: justify;}
+	h1,h2,h3,h4,h5,h6 {color: #404040; line-height: 36px;}
+	h1 {margin-bottom: 18px; font-size: 30px;}
+	h2 {font-size: 24px;}
+	h3 {font-size: 16px; color: #64030F}
+	h4 {font-size: 16px; }
+	h5 {font-size: 14px;}
+	h6 {font-size: 13px;}
+	hr {margin: 0 0 19px; border: 0; border-bottom: 1px solid #ccc;}
+	blockquote {padding: 13px 13px 21px 15px;margin-bottom: 18px; font-family:georgia,serif;font-style:italic;}
+	blockquote:before {content:"C"; font-size:40px; margin-left:-10px; font-family:georgia,serif;color:#eee;}
+	blockquote p {font-size: 14px; font-weight: 300;line-height: 18px; margin-bottom: 0; font-style: italic;}
+	code, pre {font-family: Monaco, Andale Mono, Courier New, monospace;}
+	code {background-color: #fee9cc; color: rgba(0, 0, 0, 0.75); padding: 1px 3px; font-size: 12px; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;}
+	pre {display: block; padding: 14px; margin: 0 0 18px; line-height: 16px; font-size: 11px; border: 1px solid #d9d9d9; white-space: pre-wrap; word-wrap: break-word;}
+	pre code {background-color: #fff; color:#737373; font-size: 11px;padding: 0;}@media screen and (min-width: 768px) {body {width: 748px; margin:10px auto;}}
+</style>
+<style id="custom" type="text/css"></style>
+</head>
+
+<body marginheight="0" data-new-gr-c-s-check-loaded="14.984.0" data-gr-ext-installed="">
+	<h2><center>Multi-Pen Robust Robotic 3D Drawing Using Closed-Loop Planning</center></h2>
+	<h3><center>Ruishuang Liu, Weiwei Wan, Keisuke Koyama and Kensuke Harada</center></h3>
+	<h3><center>Osaka University</center></h3>
+	<div>
+		<center>
+		<img src="imgs/teaser.jpg"  alt="teaser" width="700" height="262"/>
+		</center>
+	</div>
+	<h4>Abstract</h4>
+	<p>
+		This paper develops a flexible and robust robotic system for autonomous drawing on 3D surfaces. The system takes 2D drawing strokes and a 3D target surface (mesh or point clouds) as input. It maps the 2D strokes onto the 3D surface and generates a robot motion to draw the mapped strokes using visual recognition, grasp pose reasoning, and motion planning. The system is flexible compared to conventional robotic drawing systems as we do not fix drawing tools to the end of a robot arm. Instead, a robot selects drawing tools using a vision system and holds drawing tools for painting using its hand. Meanwhile, with the flexibility, the system has high robustness thanks to the following crafts: First, a high-quality mapping method is developed to minimize deformation in the strokes. Second, visual detection is used to re-estimate the drawing tool's pose before executing each drawing motion. Third, force control is employed to avoid noisy visual detection and calibration, and ensure a firm touch between the pen tip and a target surface. Fourth, error detection and recovery are implemented to deal with unexpected problems. The planning and executions are performed in a closed-loop manner until the strokes are successfully drawn. We evaluate the system and analyze the necessity of the various crafts using different real-word tasks. The results show that the proposed system is flexible and robust to generate a robot motion from picking and placing the pens to successfully drawing 3D strokes on given surfaces.
+	</p>
+
+	<div>
+		<iframe width="756" height="425" src="https://www.youtube.com/embed/KBSWHh4RtW0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+		</iframe>
+	</div>
+
+	<h4>Paper</h4>
+	<p>Latest version(Oct. 2020) 
+		<a href="https://arxiv.org/pdf/2009.14501.pdf">arXiv: 2009.14501</a> 
+	</p>
+
+	<h4>Citation</h4>
+	<p>
+		Liu, R., Wan, W., Koyama, K., & Harada, K. (2020). Multi-Pen Robust Robotic 3D Drawing Using Closed-Loop Planning. arXiv preprint arXiv:2009.14501.
+	</p>
+	<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:T17ISRfZ7m0J:scholar.google.com/&output=citation&scisdr=CgXrNs1hEO-E4FErQKY:AAGBfm0AAAAAX7UuWKYAjYBs7PcqrlUR2QJJ2Ic9YsVZ&scisig=AAGBfm0AAAAAX7UuWOcTKD54b2k3515mX8JYRHu2QRMa&scisf=4&ct=citation&cd=-1&hl=zh-CN">Bibtex</a> 
+	
+
+
+</body>
+</html>
