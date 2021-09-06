@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{https://rsliu-xx.github.io/}
-
 Education
 ======
 * B.S. in Tianjin University, 2016
