@@ -7,7 +7,7 @@ redirect_from:
   - /cv
 ---
 
-{% include base_path %}
+{https://rsliu-xx.github.io/}
 
 Education
 ======
