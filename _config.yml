@@ -310,3 +310,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+maps:
+  google:
+    api_key: <AIzaSyDa8m8A2X9PpvzgEJXRmoh7aMzrr7ehTNo>
+
