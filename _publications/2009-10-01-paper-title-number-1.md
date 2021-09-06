@@ -6,3 +6,10 @@ Preprints
 
 Domestic Conference
 ===========
+Planning 3D Robotic Drawing, Ruishuang LIU, Weiwei WAN, Keisuke KOYAMA,Kensuke HARADA, 第38回日本ロボット学会学術講演会予稿集, 1I3-01，2020/10/9-11
+
+Optimizaiton-based Planning and Control for 3D Robotic Drawing, Ruishuang LIU, Weiwei WAN, Keisuke KOYAMA,Kensuke HARADA, 第39回日本ロボット学会学術講演会予稿集, 1I3-01，2021/09/9-10
+
+Award
+===========
+"Planning 3D Robotic Drawing", Finalist of the 2nd International Session Best Presentation Award, 日本ロボット学会, 2020/10/10.
