@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-test
 Education
 ======
 * B.S. in Tianjin University, 2016
