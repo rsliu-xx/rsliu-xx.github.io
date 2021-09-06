@@ -26,3 +26,4 @@ Links
 
 Location
 ======
+{% google_map latitude="48.8587741" longitude="2.2074741" marker_title="My Location" marker_img="/img.jpg" marker_url="/my-location.html" %}
