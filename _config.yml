@@ -313,5 +313,5 @@ compress_html:
     
 maps:
   google:
-    api_key: <AIzaSyDa8m8A2X9PpvzgEJXRmoh7aMzrr7ehTNo>
+    api_key: AIzaSyDa8m8A2X9PpvzgEJXRmoh7aMzrr7ehTNo
 
