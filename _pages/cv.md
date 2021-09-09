@@ -11,7 +11,7 @@ Education
 ======
 * B.S. in Tianjin University, 2016
 * M.S. in Nanyang Technological University, 2017
-* Ph.D in Osaka University, 2021 (expected)
+* Ph.D in Osaka University, 2022 (expected)
 
 Work experience
 ======
