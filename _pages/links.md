@@ -23,7 +23,3 @@ Links
 [Graduate School of Engineering Science](https://www.es.osaka-u.ac.jp/en/)
 
 [Osaka University](https://www.osaka-u.ac.jp/en)
-
-Location
-======
-{% google_map latitude="48.8587741" longitude="2.2074741" marker_title="My Location" marker_img="/img.jpg" marker_url="/my-location.html" %}
