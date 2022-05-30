@@ -25,9 +25,11 @@ Journal
 
 Domestic Conference
 ===========
-Planning 3D Robotic Drawing, Ruishuang LIU, Weiwei WAN, Keisuke KOYAMA,Kensuke HARADA, 第38回日本ロボット学会学術講演会予稿集, 1I3-01，2020/10/9-11
+Metal Wire Manipulation Planning for 3D Curving with a Bending Gadget, Ruishuang LIU, Weiwei WAN, Keisuke KOYAMA,Kensuke HARADA, ロボティクス・メカトロニクス講演会2022(ROBOMECH2022), 2A2-N03.
 
-Optimizaiton-based Planning and Control for 3D Robotic Drawing, Ruishuang LIU, Weiwei WAN, Keisuke KOYAMA,Kensuke HARADA, 第39回日本ロボット学会学術講演会予稿集, 1I3-01，2021/09/9-10
+Optimizaiton-based Planning and Control for 3D Robotic Drawing, Ruishuang LIU, Weiwei WAN, Keisuke KOYAMA,Kensuke HARADA, 第39回日本ロボット学会学術講演会予稿集(RSJ2021), 1I3-01，2021/09/9-10
+
+Planning 3D Robotic Drawing, Ruishuang LIU, Weiwei WAN, Keisuke KOYAMA,Kensuke HARADA, 第38回日本ロボット学会学術講演会予稿集(RSJ2020), 1I3-01，2020/10/9-11
 
 Award
 ===========
