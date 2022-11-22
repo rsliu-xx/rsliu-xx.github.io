@@ -34,6 +34,8 @@ Planning 3D Robotic Drawing, Ruishuang LIU, Weiwei WAN, Keisuke KOYAMA,Kensuke H
 Award
 ===========
 "Metal Wire Manipulation Planning for 3D Curving -- How a Low Payload Robot Can Use a Bending Machine to Bend Stiff Metal Wire", IEEE Robotics and Automation Society Japan Joint Chapter Young Award (IROS, CASE 2022), 2022/10/27
+
 "Robust Robotic 3D Drawing using Closed-loop Planning and Online Picked Pens", IEEE Robotics and Automation Society Japan Joint Chapter Student Author Award (T-RO with IROS 2022 Presentation), 2022/10/27
+
 "Planning 3D Robotic Drawing", Finalist of the 2nd International Session Best Presentation Award, 日本ロボット学会, 2020/10/10.
 
