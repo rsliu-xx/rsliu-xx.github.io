@@ -14,3 +14,6 @@ I’m a Ph.D. candidate at [Harada Lab.](https://www.roboticmanipulation.org/), 
 
 ### Research Interest
 My major interest is robotic manipulation, which include grasping planning, motion planning, and other low level and high level task planning algorithms. I am also studying visual perception, image processing and force control to enhance the robotic manipulation system. 
+
+### Research
+<a href="https://www.youtube.com/watch?v=DwUWdWQCZyw&t=61s" target="_blank"><img src="https://img.youtube.com/vi/DwUWdWQCZyw/maxresdefault.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
