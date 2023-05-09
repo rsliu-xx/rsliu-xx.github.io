@@ -22,6 +22,33 @@ My major interest is robotic manipulation, which include grasping planning, moti
 ## Research
 <div class="container">
     <div class="video">
+        <h3>Next Best View Planning Considering Confidence Obtained from Shape Completion Learning</h3>
+        <a href="https://www.youtube.com/watch?v=QK22YEZGX-M&t=7s" target="_blank">
+            <img src="https://img.youtube.com/vi/QK22YEZGX-M/maxresdefault.jpg" alt="YouTubeVideo" width="350" height="199" border="20" />
+        </a>
+    </div>
+    <div class="text">
+        <p> This video shows a Next Best Views (NBV) planner for capturing a thin, curved metal plate using a depth camera and a robot manipulator equipped with an external stationary depth sensor. The proposed approach aims to efficiently collect the object's surface point cloud data and reconstruct its 3D model with a minimal number of views. The challenge in obtaining the model of such objects lies in their shiny and flat surface, which leads to noisy point cloud data and low guidance in the surface normal for completion. To overcome these challenges, we propose using a Point cloud Completion Network (PCN) to find heuristics for NBV or Next Best robot Configuration (NBC) optimization. Unlike previous methods, our approach predicts NBV by considering a holistic view of the object predicted by neural networks, which is not limited by the local information captured by the sensors and is, therefore, robust to deficiencies in known point cloud data and normal.</p>
+    </div>
+</div>
+
+<div class="container">
+    <div class="video">
+        <h3>Metal Wire Manipulation Planning for 3D Curving</h3>
+        <a href="https://www.youtube.com/watch?v=sp4KDs7oiEw" target="_blank">
+            <img src="https://img.youtube.com/vi/sp4KDs7oiEw/maxresdefault.jpg" alt="YouTubeVideo" width="350" height="199" border="20" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=u3PL-W4Xhjo" target="_blank">
+            <img src="https://img.youtube.com/vi/u3PL-W4Xhjo/maxresdefault.jpg" alt="YouTubeVideo" width="350" height="199" border="20" />
+        </a>
+    </div>
+    <div class="text">
+        <p>This video shows a combined task and motion planner (TAMP) for a robot arm to work with a bending machine in 3D metal wire curving tasks commonly found in manufacturing and medical fields. Our method converts a 3D curve to a bending set and generates the feasible bending sequence, machine usage, robotic grasp poses, and pick-and-place arm motion considering the combined task and motion level constraints. Compared with previous deformable linear object shaping work that relied on forces provided by robotic arms, the proposed method is suitable for the material with high stiffness. </p>
+    </div>
+</div>
+
+<div class="container">
+    <div class="video">
         <h3>Robotic 3D Drawing</h3>
         <a href="https://www.youtube.com/watch?v=DwUWdWQCZyw&t=61s" target="_blank">
             <img src="https://img.youtube.com/vi/DwUWdWQCZyw/maxresdefault.jpg" alt="Amazing Video" width="350" height="199" border="20" />
@@ -32,17 +59,3 @@ My major interest is robotic manipulation, which include grasping planning, moti
     </div>
 </div>
 
-<div class="container">
-    <div class="video">
-        <h3>Metal Wire Manipulation Planning for 3D Curving</h3>
-        <a href="https://www.youtube.com/watch?v=sp4KDs7oiEw" target="_blank">
-            <img src="https://img.youtube.com/vi/sp4KDs7oiEw/maxresdefault.jpg" alt="Amazing Video" width="350" height="199" border="20" />
-        </a>
-        <a href="https://www.youtube.com/watch?v=u3PL-W4Xhjo" target="_blank">
-            <img src="https://img.youtube.com/vi/u3PL-W4Xhjo/maxresdefault.jpg" alt="Amazing Video" width="350" height="199" border="20" />
-        </a>
-    </div>
-    <div class="text">
-        <p>This video presents a combined task and motion planner for a combined task and motion planner (TAMP) for a robot arm to work with a bending machine in 3D metal wire curving tasks commonly found in manufacturing and medical fields. Our method converts a 3D curve to a bending set and generates the feasible bending sequence, machine usage, robotic grasp poses, and pick-and-place arm motion considering the combined task and motion level constraints. Compared with previous deformable linear object shaping work that relied on forces provided by robotic arms, the proposed method is suitable for the material with high stiffness. </p>
-    </div>
-</div>
