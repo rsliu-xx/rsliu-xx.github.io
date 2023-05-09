@@ -23,7 +23,7 @@ My major interest is robotic manipulation, which include grasping planning, moti
 <div class="container">
     <div class="video">
         <h3>Next Best View Planning for Metal Plate 3D Model Obtaining</h3>
-        <a href="https://www.youtube.com/watch?v=QK22YEZGX-M&t=7s" target="_blank">
+        <a href="https://www.youtube.com/watch?v=QK22YEZGX-M" target="_blank">
             <img src="https://img.youtube.com/vi/QK22YEZGX-M/maxresdefault.jpg" alt="YouTubeVideo" width="350" height="199" border="20" />
         </a>
     </div>
@@ -50,8 +50,11 @@ My major interest is robotic manipulation, which include grasping planning, moti
 <div class="container">
     <div class="video">
         <h3>Robotic 3D Drawing</h3>
-        <a href="https://www.youtube.com/watch?v=DwUWdWQCZyw&t=61s" target="_blank">
-            <img src="https://img.youtube.com/vi/DwUWdWQCZyw/maxresdefault.jpg" alt="Amazing Video" width="350" height="199" border="20" />
+        <a href="https://www.youtube.com/watch?v=DwUWdWQCZyw" target="_blank">
+            <img src="https://img.youtube.com/vi/DwUWdWQCZyw/maxresdefault.jpg" alt="YouTubeVideo" width="350" height="199" border="20" />
+        </a>
+        <a href="https://www.youtube.com/watch?v=DwUWdWQCZyw&t=30s" target="_blank">
+            <img src="../images/draw_err.jpg" alt="YouTubeVideo" width="350" height="199" border="20" />
         </a>
     </div>
     <div class="text">
