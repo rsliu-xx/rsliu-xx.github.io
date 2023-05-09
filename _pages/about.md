@@ -18,7 +18,7 @@ My major interest is robotic manipulation, which include grasping planning, moti
 ### Research
 <div class="container">
     <div class="video">
-        <h3>Robotic 3D Drawing</h3>
+        <h4>Robotic 3D Drawing</h4>
         <a href="https://www.youtube.com/watch?v=DwUWdWQCZyw&t=61s" target="_blank">
             <img src="https://img.youtube.com/vi/DwUWdWQCZyw/maxresdefault.jpg" alt="Amazing Video" width="320" height="180" border="10" />
         </a>
@@ -30,7 +30,7 @@ My major interest is robotic manipulation, which include grasping planning, moti
 
 <div class="container">
     <div class="video">
-        <h3>Metal Wire Manipulation Planning for 3D Curving</h3>
+        <h4>Metal Wire Manipulation Planning for 3D Curving</h4>
         <a href="https://www.youtube.com/watch?v=sp4KDs7oiEw" target="_blank">
             <img src="https://img.youtube.com/vi/sp4KDs7oiEw/maxresdefault.jpg" alt="Amazing Video" width="320" height="180" border="10" />
         </a>
