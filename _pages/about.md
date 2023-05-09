@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/010/778/659/large_2x/robot-arm-for-website-symbol-icon-presentation-free-vector.jpg" alt="" width="50" height="50">
+  <img src="../images/rbt.png" alt="" width="50" height="50">
 </p>
 
 ## Short Bio
