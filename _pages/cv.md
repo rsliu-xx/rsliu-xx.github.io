@@ -7,20 +7,20 @@ redirect_from:
   - /resume
 ---
 
-Education
-======
+## Education
+
 * Aug. 2012 - Jul. 2016 B.S. in Tianjin University
 * Aug. 2016 - Aug. 2017 M.S. in Nanyang Technological University
 * Oct. 2019 - Oct. 2023 (expected) Ph.D in Osaka University
     
-Research experience
-======
+## Research experience
+
 * Sep. 2017 - Sep. 2019 Nanyang Technological University | Research Associate
   * Research topic: Natrual Langauge Processing; information extraction.
   * Supervisor: Professor [Mao Kezhi](https://dr.ntu.edu.sg/cris/rp/rp00158)
 
-Skills
-======
+## Skills
+
 * Robotic Device
   * Universal Robots UR3/3e     
   * ABB IRB 14000 (YuMi)   
