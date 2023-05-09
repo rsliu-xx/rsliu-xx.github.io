@@ -20,6 +20,7 @@ I’m a Ph.D. candidate at [Harada Lab.](https://www.roboticmanipulation.org/), 
 My major interest is robotic manipulation, which include grasping planning, motion planning, and other low level and high level task planning algorithms. I am also studying visual perception, image processing and force control to enhance the robotic manipulation system. 
 
 ## Research
+
 <div class="container">
     <div class="video">
         <h3>Next Best View Planning for Metal Plate 3D Model Obtaining</h3>
@@ -29,6 +30,7 @@ My major interest is robotic manipulation, which include grasping planning, moti
     </div>
     <div class="text">
         <p> This video shows a Next Best Views (NBV) planner for capturing a thin, curved metal plate using a depth camera and a robot manipulator equipped with an external stationary depth sensor. The proposed approach aims to efficiently collect the object's surface point cloud data and reconstruct its 3D model with a minimal number of views. </p>
+        <a href="" title="jornal">[Paper]</a>(coming soon.)
     </div>
 </div>
 
@@ -44,6 +46,8 @@ My major interest is robotic manipulation, which include grasping planning, moti
     </div>
     <div class="text">
         <p>This video shows a combined task and motion planner (TAMP) for a robot arm to work with a bending machine in 3D metal wire curving tasks commonly found in manufacturing and medical fields. Our method converts a 3D curve to a bending set and generates the feasible bending sequence, machine usage, robotic grasp poses, and pick-and-place arm motion considering the combined task and motion level constraints. </p>
+        <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981672" title="conf">[Conference Ver.]</a>
+        <a href="" title="jornal">[Jornal Ver.]</a>(coming soon.)
     </div>
 </div>
 
@@ -59,6 +63,8 @@ My major interest is robotic manipulation, which include grasping planning, moti
     </div>
     <div class="text">
         <p>This video shows a flexible and robust robotic system for autonomous drawing on 3D surfaces. The system maps the strokes onto the surface and generates robot motion using visual recognition, grasp pose reasoning, and motion planning. Unlike conventional systems, the robot can recognize and pick up pens to draw 3D strokes, making it more flexible. The system's robustness is ensured by minimizing deformation in the strokes, re-estimating the drawing tool's pose, employing force control, and implementing error detection and recovery. </p>
+        <a href="https://rsliu-xx.github.io/_pages/rbtdraw.html" title="page">[Website]</a>  
+        <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9570721" title="Paper">[Paper]</a>
     </div>
 </div>
 
