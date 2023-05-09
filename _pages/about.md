@@ -17,9 +17,7 @@ My major interest is robotic manipulation, which include grasping planning, moti
 
 ### Research
 <div style="display:flex; align-items:center;">
-  <a href="https://www.youtube.com/watch?v=DwUWdWQCZyw&t=61s" target="_blank">
-    <img src="https://img.youtube.com/vi/DwUWdWQCZyw/maxresdefault.jpg" alt="VIDEO THUMBNAIL" width="320" height="180" border="10" />
-  </a>
+  <a href="https://www.youtube.com/watch?v=DwUWdWQCZyw&t=61s" target="_blank"><img src="https://img.youtube.com/vi/DwUWdWQCZyw/maxresdefault.jpg" alt="VIDEO THUMBNAIL" width="320" height="180" border="10" /></a>
   <div style="margin-left:20px;">
     <h3>Robotic 3D Drawing</h3>
     <p>This video shows a flexible and robust robotic system for autonomous drawing on 3D surfaces. The system takes 2D drawing strokes and a 3D target surface (mesh or point clouds) as input. It maps the 2D strokes onto the 3D surface and generates a robot motion to draw the mapped strokes using visual recognition, grasp pose reasoning, and motion planning. The system is flexible compared to conventional robotic drawing systems as we do not fix drawing tools to the end of a robot arm. Instead, a robot selects drawing tools using a vision system and holds drawing tools for painting using its hand. </p>
