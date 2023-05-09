@@ -15,7 +15,7 @@ redirect_from:
     
 ## Research experience
 
-* Sep. 2017 - Sep. 2019 Nanyang Technological University | Research Associate
+* Sep. 2017 - Sep. 2019 Nanyang Technological University, **Research Associate**
   * Research topic: Natrual Langauge Processing; information extraction.
   * Supervisor: Professor [Mao Kezhi](https://dr.ntu.edu.sg/cris/rp/rp00158)
 
