@@ -24,11 +24,11 @@ My major interest is robotic manipulation, which include grasping planning, moti
     <div class="video">
         <h3>Next Best View Planning for Metal Plate 3D Model Obtaining</h3>
         <a href="https://www.youtube.com/watch?v=QK22YEZGX-M" target="_blank">
-            <img src="https://img.youtube.com/vi/QK22YEZGX-M/maxresdefault.jpg" alt="YouTubeVideo" width="350" height="199" border="20" />
+            <img src="../images/nbv_setup.jpg" alt="YouTubeVideo" width="350" height="199" border="20" />
         </a>
     </div>
     <div class="text">
-        <p> This video shows a Next Best Views (NBV) planner for capturing a thin, curved metal plate using a depth camera and a robot manipulator equipped with an external stationary depth sensor. The proposed approach aims to efficiently collect the object's surface point cloud data and reconstruct its 3D model with a minimal number of views. The challenge in obtaining the model of such objects lies in their shiny and flat surface, which leads to noisy point cloud data and low guidance in the surface normal for completion. To overcome these challenges, we propose using a Point cloud Completion Network (PCN) to find heuristics for NBV or Next Best robot Configuration (NBC) optimization. </p>
+        <p> This video shows a Next Best Views (NBV) planner for capturing a thin, curved metal plate using a depth camera and a robot manipulator equipped with an external stationary depth sensor. The proposed approach aims to efficiently collect the object's surface point cloud data and reconstruct its 3D model with a minimal number of views. </p>
     </div>
 </div>
 
@@ -43,7 +43,7 @@ My major interest is robotic manipulation, which include grasping planning, moti
         </a>
     </div>
     <div class="text">
-        <p>This video shows a combined task and motion planner (TAMP) for a robot arm to work with a bending machine in 3D metal wire curving tasks commonly found in manufacturing and medical fields. Our method converts a 3D curve to a bending set and generates the feasible bending sequence, machine usage, robotic grasp poses, and pick-and-place arm motion considering the combined task and motion level constraints. Compared with previous deformable linear object shaping work that relied on forces provided by robotic arms, the proposed method is suitable for the material with high stiffness. </p>
+        <p>This video shows a combined task and motion planner (TAMP) for a robot arm to work with a bending machine in 3D metal wire curving tasks commonly found in manufacturing and medical fields. Our method converts a 3D curve to a bending set and generates the feasible bending sequence, machine usage, robotic grasp poses, and pick-and-place arm motion considering the combined task and motion level constraints. </p>
     </div>
 </div>
 
@@ -58,7 +58,7 @@ My major interest is robotic manipulation, which include grasping planning, moti
         </a>
     </div>
     <div class="text">
-        <p>This video shows a flexible and robust robotic system for autonomous drawing on 3D surfaces. The system maps the strokes onto the surface and generates robot motion using visual recognition, grasp pose reasoning, and motion planning. Unlike conventional systems, the robot can recognize and pick up pens to draw 3D strokes, making it more flexible. The system's robustness is ensured by minimizing deformation in the strokes, re-estimating the drawing tool's pose, employing force control, and implementing error detection and recovery. The planning and executions are performed in a closed-loop manner. </p>
+        <p>This video shows a flexible and robust robotic system for autonomous drawing on 3D surfaces. The system maps the strokes onto the surface and generates robot motion using visual recognition, grasp pose reasoning, and motion planning. Unlike conventional systems, the robot can recognize and pick up pens to draw 3D strokes, making it more flexible. The system's robustness is ensured by minimizing deformation in the strokes, re-estimating the drawing tool's pose, employing force control, and implementing error detection and recovery. </p>
     </div>
 </div>
 
