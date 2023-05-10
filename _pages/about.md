@@ -22,7 +22,7 @@ My major interest is robotic manipulation, which include grasping planning, moti
 ## Research
 <div class="container">
     <div class="video">
-        <h3 style="color:gray;">Next Best View Planning for Metal Plate 3D Model Obtaining</h3>
+        <h3>Next Best View Planning for Metal Plate 3D Model Obtaining</h3>
         <a href="https://www.youtube.com/watch?v=QK22YEZGX-M" target="_blank">
             <img src="../images/nbv_setup.jpg" alt="YouTubeVideo" width="370" height="208" border="20" />
         </a>
