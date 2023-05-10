@@ -9,17 +9,17 @@ redirect_from:
 
 ## Education
 <span> Ph.D in Engineering, Osaka University </span> <br>
-<span style="color:#C0C0C0;"> Oct. 2019 - Oct. 2023 (expected) </span>
+<span style="color:#98AFC7;"> Oct. 2019 - Oct. 2023 (expected) </span>
 
 <span> Master of Science, Nanyang Technological University </span> <br>
-<span style="color:#C0C0C0;"> Aug. 2016 - Aug. 2017 </span>
+<span style="color:#98AFC7;"> Aug. 2016 - Aug. 2017 </span>
 
 <span> Bachelor, Tianjin University </span> <br>
-<span style="color:#C0C0C0;"> Aug. 2012 - Jul. 2016 </span>
+<span style="color:#98AFC7;"> Aug. 2012 - Jul. 2016 </span>
 
 ## Research experience
 <span> Research Associate, Nanyang Technological University </span> <br>
-<span style="color:#C0C0C0;"> Sep. 2017 - Sep. 2019 </span>
+<span style="color:#98AFC7;"> Sep. 2017 - Sep. 2019 </span>
   * Research topic: Natrual Langauge Processing; information extraction.
   * Supervisor: Professor [Mao Kezhi](https://dr.ntu.edu.sg/cris/rp/rp00158)
 
