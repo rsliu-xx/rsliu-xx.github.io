@@ -83,5 +83,5 @@ My major interest is robotic manipulation, which include grasping planning, moti
 <p>“Planning 3D Robotic Drawing”, Finalist of the 2nd International Session Best Presentation Award, 日本ロボット学会, 2020/10/10.</p>
 
 <h2>Past Vistors</h2>
-<div style="display:inline-block;width:260px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=58tnmqukzo0&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script></div>
+<div style="display:inline-block;width:300px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=58tnmqukzo0&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script></div>
 
