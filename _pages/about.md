@@ -82,3 +82,6 @@ My major interest is robotic manipulation, which include grasping planning, moti
 <p>“Robust Robotic 3D Drawing using Closed-loop Planning and Online Picked Pens”, IEEE Robotics and Automation Society Japan Joint Chapter Student Author Award (T-RO with IROS 2022 Presentation), 2022/10/27</p>
 <p>“Planning 3D Robotic Drawing”, Finalist of the 2nd International Session Best Presentation Award, 日本ロボット学会, 2020/10/10.</p>
 
+<h2>Past Vistors</h2>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=58thmisy80w&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
+
