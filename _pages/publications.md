@@ -27,11 +27,12 @@ author_profile: true
 [Metal Wire Manipulation Planning for 3D Curving -- How a Low Payload Robot Can Use a Bending Machine to Bend Stiff Metal Wire](https://arxiv.org/pdf/2203.04024), Ruishuang Liu, Weiwei Wan, Emiko Tanaka Isomura, and Kensuke Harada, **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, 2022. [Video](https://youtu.be/sp4KDs7oiEw) <span style="color:red"> (IEEE Robotics and Automation Society Japan Joint Chapter Young Award (IROS, CASE 2022))</span>
 
 ## Domestic Conference
+Obtaining a Shiny Metal Plate's 3D Model using Deeply Learned Geometry and Next Best View Planning, Ruishuang LIU, Weiwei WAN, Kensuke HARADA, ロボティクス・メカトロニクス講演会2023 (ROBOMECH2023), 2A2-D27.
 
-Metal Wire Manipulation Planning for 3D Curving with a Bending Gadget, Ruishuang LIU, Weiwei WAN, Keisuke KOYAMA,Kensuke HARADA, ロボティクス・メカトロニクス講演会2022 (ROBOMECH2022), 2A2-N03.
+Metal Wire Manipulation Planning for 3D Curving with a Bending Gadget, Ruishuang LIU, Weiwei WAN, Kensuke HARADA, ロボティクス・メカトロニクス講演会2022 (ROBOMECH2022), 2A2-N03.
 
-Optimizaiton-based Planning and Control for 3D Robotic Drawing, Ruishuang LIU, Weiwei WAN, Keisuke KOYAMA,Kensuke HARADA, 第39回日本ロボット学会学術講演会予稿集 (RSJ2021), 1I3-01，2021/09/9-10
+Optimizaiton-based Planning and Control for 3D Robotic Drawing, Ruishuang LIU, Weiwei WAN, Keisuke KOYAMA,Kensuke HARADA, 第39回日本ロボット学会学術講演会予稿集 (RSJ2021), 1I3-01, 2021/09/9-10.
 
-Planning 3D Robotic Drawing, Ruishuang LIU, Weiwei WAN, Keisuke KOYAMA,Kensuke HARADA, 第38回日本ロボット学会学術講演会予稿集 (RSJ2020), 1I3-01，2020/10/9-11  <span style="color:red"> (Finalist of the 2nd International Session Best Presentation Award)</span>
+Planning 3D Robotic Drawing, Ruishuang LIU, Weiwei WAN, Keisuke KOYAMA, Kensuke HARADA, 第38回日本ロボット学会学術講演会予稿集 (RSJ2020), 1I3-01, 2020/10/9-11.  <span style="color:red"> (Finalist of the 2nd International Session Best Presentation Award)</span>
 
 
