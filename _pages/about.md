@@ -42,7 +42,7 @@ My major interest is robotic manipulation, which include grasping planning, moti
         <h3>Metal Wire Manipulation Planning for 3D Curving</h3>
         <span style="color:#808080;"> Ruishuang Liu, Weiwei Wan, Emiko Tanaka Isomura, and Kensuke Harada </span> <br>
         <span style="color:#808080;"> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022. </span> <br>
-        <span > IEEE Transactions on Automation Science and Engineering (TASE), 2023. </span> <br>
+        <span style="color:#808080;"> IEEE Transactions on Automation Science and Engineering (TASE), 2023. </span> <br>
         [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981672" title="conf">Conference</a>]
         [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:WaDBswOre7UJ:scholar.google.com/&output=citation&scisdr=Cm3DAmuTEMn7l9IeYxk:AGlGAw8AAAAAZFoYexkwR4-CKje9pdaUg310m0M&scisig=AGlGAw8AAAAAZFoYe19vwWigESv1SCFN-lLugE4&scisf=4&ct=citation&cd=-1&hl=zh-CN">Bibtex</a>]
         [<a href="" title="jornal">Jornal</a>](coming soon.) <br>
