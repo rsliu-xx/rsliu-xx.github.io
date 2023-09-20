@@ -43,9 +43,9 @@ My major interest is robotic manipulation, which include grasping planning, moti
         <span style="color:#808080;"> Ruishuang Liu, Weiwei Wan, Emiko Tanaka Isomura, and Kensuke Harada </span> <br>
         <span style="color:#808080;"> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022. </span> <br>
         <span style="color:#808080;"> IEEE Transactions on Automation Science and Engineering (TASE), 2023. </span> <br>
-        [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981672" title="conf">Conference</a>]
-        [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:WaDBswOre7UJ:scholar.google.com/&output=citation&scisdr=Cm3DAmuTEMn7l9IeYxk:AGlGAw8AAAAAZFoYexkwR4-CKje9pdaUg310m0M&scisig=AGlGAw8AAAAAZFoYe19vwWigESv1SCFN-lLugE4&scisf=4&ct=citation&cd=-1&hl=zh-CN">Bibtex</a>]
-        [<a href="" title="jornal">Jornal</a>](coming soon.) <br>
+        [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981672" title="conf">Conference Ver.</a>]
+        [<a href="https://ieeexplore.ieee.org/abstract/document/10214022" title="jornal">Jornal Ver.</a>]
+        [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:WaDBswOre7UJ:scholar.google.com/&output=citation&scisdr=Cm3DAmuTEMn7l9IeYxk:AGlGAw8AAAAAZFoYexkwR4-CKje9pdaUg310m0M&scisig=AGlGAw8AAAAAZFoYe19vwWigESv1SCFN-lLugE4&scisf=4&ct=citation&cd=-1&hl=zh-CN">Bibtex</a>] <br>
         <a href="https://www.youtube.com/watch?v=sp4KDs7oiEw" target="_blank">
             <img src="https://img.youtube.com/vi/sp4KDs7oiEw/maxresdefault.jpg" alt="YouTubeVideo" width="370" height="208" border="20" />
         </a>
