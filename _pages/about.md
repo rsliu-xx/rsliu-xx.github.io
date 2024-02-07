@@ -24,7 +24,8 @@ My major interest is robotic manipulation, which include grasping planning, moti
     <div class="video">
         <h3>Next Best View Planning for Metal Plate 3D Model Obtaining</h3>
         <span style="color:#808080;"> Ruishuang Liu, Chuan Li, Weiwei Wan, Jia Pan, and Kensuke Harada </span> <br>
-        [<a href="" title="jornal">Paper</a>](coming soon.)<br>
+        <span style="color:#808080;"> IEEE Robotics and Automation Letters (RA-L), 2024. </span> <br>
+        [<a href="https://ieeexplore.ieee.org/abstract/document/10414169" title="jornal">Paper</a>] [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:g3Etoln-hKYJ:scholar.google.com/&output=citation&scisdr=ClFsBxDAEO_aj2nw2R0:AFWwaeYAAAAAZcL2wR2fG5q8pvf_a5FAGdQMvTA&scisig=AFWwaeYAAAAAZcL2wQicnAhltZGSukrv1EDtZSo&scisf=4&ct=citation&cd=-1&hl=zh-CN">Bibtex</a>] <br>
         <a href="https://www.youtube.com/watch?v=QK22YEZGX-M" target="_blank">
             <img src="../images/nbv_setup.jpg" alt="YouTubeVideo" width="370" height="208" border="20" />
         </a>
@@ -42,7 +43,7 @@ My major interest is robotic manipulation, which include grasping planning, moti
         <h3>Metal Wire Manipulation Planning for 3D Curving</h3>
         <span style="color:#808080;"> Ruishuang Liu, Weiwei Wan, Emiko Tanaka Isomura, and Kensuke Harada </span> <br>
         <span style="color:#808080;"> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022. </span> <br>
-        <span style="color:#808080;"> IEEE Transactions on Automation Science and Engineering (TASE), 2023. </span> <br>
+        <span style="color:#808080;"> IEEE Transactions on Automation Science and Engineering (T-ASE), 2023. </span> <br>
         [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981672" title="conf">Conference Ver.</a>]
         [<a href="https://ieeexplore.ieee.org/abstract/document/10214022" title="jornal">Jornal Ver.</a>]
         [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:WaDBswOre7UJ:scholar.google.com/&output=citation&scisdr=Cm3DAmuTEMn7l9IeYxk:AGlGAw8AAAAAZFoYexkwR4-CKje9pdaUg310m0M&scisig=AGlGAw8AAAAAZFoYe19vwWigESv1SCFN-lLugE4&scisf=4&ct=citation&cd=-1&hl=zh-CN">Bibtex</a>] <br>
@@ -62,7 +63,7 @@ My major interest is robotic manipulation, which include grasping planning, moti
     <div class="video">
         <h3>Robotic 3D Drawing</h3>
         <span style="color:#808080;"> Ruishuang Liu, Weiwei Wan, Keisuke Koyama, and Kensuke Harada </span> <br>
-        <span style="color:#808080;"> IEEE Transactions on Robotics (TRO), 2022. </span> <br>
+        <span style="color:#808080;"> IEEE Transactions on Robotics (T-RO), 2022. </span> <br>
         [<a href="https://rsliu-xx.github.io/_pages/rbtdraw.html" title="page">Website</a>]
         [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9570721" title="Paper">Paper</a>]
         [<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:f2cdT9OI1EcJ:scholar.google.com/&output=citation&scisdr=CgX_ZLo4EJyfhxtNV3I:AAGBfm0AAAAAYpJLT3I0st75nDFSK5-mRtzkMTVwCNKh&scisig=AAGBfm0AAAAAYpJLTwziRwqnitpiT3PM7-CeEVv1qqPe&scisf=4&ct=citation&cd=-1&hl=en">Bibtex</a>] <br>
