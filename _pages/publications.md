@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 ## Journal
-<span style="color:red">[preprint]</span> [Next Best View Planning Considering Confidence Obtained from Shape Completion Learning](), Ruishuang Liu, Chuan Li, Weiwei Wan, Jia Pan, and Kensuke Harada. [Video](https://www.youtube.com/watch?v=QK22YEZGX-M)
+[NBV/NBC Planning Considering Confidence Obtained from Shape Completion Learning](https://ieeexplore.ieee.org/abstract/document/10414169), Ruishuang Liu, Chuan Li, Weiwei Wan, Jia Pan, and Kensuke Harada, **IEEE Robotics and Automation Letters (RA-L)**, 2024. [Video](https://www.youtube.com/watch?v=QK22YEZGX-M)
 
 [TAMP for 3D Curving -- A Low-Payload Robot Arm Works Aside a Bending Machine to Curve High-Stiffness Metal Wires](https://ieeexplore.ieee.org/abstract/document/10214022), Ruishuang Liu, Weiwei Wan, and Kensuke Harada, **IEEE Transactions on Automation Science and Engineering (T-ASE)**, 2023. [Video1](https://www.youtube.com/watch?v=u3PL-W4Xhjo) [Video2](https://www.youtube.com/watch?v=u3PL-W4Xhjo)
 
