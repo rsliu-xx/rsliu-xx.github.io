@@ -9,7 +9,7 @@ redirect_from:
 
 ## Education
 <span> Ph.D in Engineering, Osaka University </span> <br>
-<span style="color:#808080;"> Oct. 2019 - Oct. 2023 (expected) </span>
+<span style="color:#808080;"> Oct. 2019 - Oct. 2023 </span>
 
 <span> Master of Science, Nanyang Technological University </span> <br>
 <span style="color:#808080;"> Aug. 2016 - Aug. 2017 </span>
@@ -26,8 +26,8 @@ redirect_from:
 ## Skills
 
 * Robotic Device
-  * Universal Robots UR3/3e     
-  * ABB IRB 14000 (YuMi)   
+  * Universal Robots UR3/3e
+  * ABB IRB 14000 (YuMi)
   * UFACTORY xArm
 * Vision Sensors
   * Intel RealSense D400-series    
@@ -35,10 +35,12 @@ redirect_from:
   * Photoneo PhoXi 3D Scanner
   * Zivid Two L100
 * Frameworks & Platforms
-  * Frameworks for robotics: Proficient in [WRS](https://github.com/wanweiwei07/wrs)
+  * Frameworks for robotics: Experienced in ROS; Proficient in [WRS](https://github.com/wanweiwei07/wrs)
   * Frameworks for machine learning: Proficient in Pytorch and Keras; Experienced in TensorFlow
   * 3D CAD and 3D printing: Proficient in Onshape
   * Motion capture system: Experienced in NOKOV
   * Embedded system: Experienced in Arduino
+* Programming Languages
+  * Python/C++/C/C#
 
   
